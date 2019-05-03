@@ -1,0 +1,10 @@
+{
+"records": [
+{"first_name": "Nastya", "last_name": "M", "city": "Cupertino", "phone": "650-650-6501"},
+{"first_name": "Dima", "patronymic": "M", "city": "Cupertino", "phone": "650-650-6502"},
+{"first_name": "Miro", "last_name": "M", "city": "San Francisco", "phone": "650-650-6503"},
+{"first_name": "Evangelina", "last_name": "M", "city": "Mountain View"}
+]
+
+
+}
